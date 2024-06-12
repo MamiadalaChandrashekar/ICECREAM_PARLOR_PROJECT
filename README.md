@@ -64,7 +64,3 @@ def add_flavor(db_path, name, is_seasonal):
     conn.commit()
     conn.close()
 
-
-![image](https://github.com/MamiadalaChandrashekar/ICECREAM_PARLOR_PROJECT/assets/130646818/1c9d11c4-0926-404b-835b-490c518b4546)
-![image](https://github.com/MamiadalaChandrashekar/ICECREAM_PARLOR_PROJECT/assets/130646818/8688c850-f7a8-46a2-98ef-009c4456bc9a)
-![image](https://github.com/MamiadalaChandrashekar/ICECREAM_PARLOR_PROJECT/assets/130646818/a34434e6-c599-4dca-a77a-a73812f41879)
