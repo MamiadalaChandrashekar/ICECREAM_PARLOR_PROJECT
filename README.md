@@ -52,15 +52,6 @@
     - Scroll down to the "Flavors" section.
     - Verify that the list of flavors is displayed correctly.
 
-## SQL Query or ORM Abstraction Implementation
-
-The application uses SQLite for data storage. The SQL queries are implemented using the `sqlite3` module in Python. For example:
-
-```python
-def add_flavor(db_path, name, is_seasonal):
-    conn = sqlite3.connect(db_path)
-    cursor = conn.cursor()
-    cursor.execute('INSERT INTO flavors (name, is_seasonal) VALUES (?, ?)', (name, is_seasonal))
-    conn.commit()
-    conn.close()
+![image](https://github.com/MamiadalaChandrashekar/ICECREAM_PARLOR_PROJECT/assets/130646818/aa0a3f17-0d9f-45d0-836d-99cef9896ac5)
+![image](https://github.com/MamiadalaChandrashekar/ICECREAM_PARLOR_PROJECT/assets/130646818/8813549c-aaed-498e-8c54-34de1319b84e)
 
