@@ -23,20 +23,7 @@
 4. **Access the Application**:
     Open your browser and go to `http://localhost:8501`.
 
-### Using Docker
 
-1. **Build the Docker Image**:
-    ```bash
-    docker build -t ice_cream_parlor_app .
-    ```
-
-2. **Run the Docker Container**:
-    ```bash
-    docker run -p 8501:8501 ice_cream_parlor_app
-    ```
-
-3. **Access the Application**:
-    Open your browser and go to `http://localhost:8501`.
 
 ## Documentation of Test Steps
 
